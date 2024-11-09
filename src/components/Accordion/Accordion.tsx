@@ -13,7 +13,7 @@ export const Accordion = ({
   directions: string | JSX.Element;
 }) => {
   return (
-    <AccordionBody type="single" collapsible className="w-1/2">
+    <AccordionBody type="single" collapsible className="w-3/4">
       <AccordionItem value="item-1">
         <AccordionTrigger>{name}</AccordionTrigger>
         <AccordionContent>{directions}</AccordionContent>
