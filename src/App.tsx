@@ -4,7 +4,9 @@ import { Drinks } from "./drinks/Drinks";
 function App() {
   return (
     <div className="flex flex-col items-center">
-      <h1 style={{ fontWeight: "bold" }}>Drinks</h1>
+      <h1 className="text-8xl mt-4 mb-10 font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 drop-shadow-lg">
+        Drinks
+      </h1>
       {Drinks.map((drink, index) => (
         <Accordion
           key={index}
