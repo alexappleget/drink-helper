@@ -8,7 +8,7 @@ export const Drinks = [
           <li>1. Add ice into shaker.</li>
           <li>2. Pour vodka and count to 2.</li>
           <li>3. Pour orange liquer and count to 2.</li>
-          <li>4. Pour cranberry juice and count to 6.</li>
+          <li>4. Pour cranberry juice and count to 3.</li>
           <li>5. Do a squirt of lime juice.</li>
           <li>6. Shake.</li>
           <li>7. Strain into glass with ice.</li>
@@ -27,7 +27,7 @@ export const Drinks = [
           <li>2. Pour vodka and count to 2.</li>
           <li>3. Pour orange liquer and count to 2.</li>
           <li>4. Add a cherry or two with cherry juice.</li>
-          <li>5. Pour cranberry juice and count to 6.</li>
+          <li>5. Pour cranberry juice and count to 3.</li>
           <li>6. Do a squirt of lime juice.</li>
           <li>7. Shake.</li>
           <li>8. Strain into glass with ice.</li>
@@ -58,7 +58,7 @@ export const Drinks = [
         <ul>
           <li>1. Add ice into shaker.</li>
           <li>2. Pour kahlua and count to 2.</li>
-          <li>3. Pour cold brew and count to 6.</li>
+          <li>3. Pour cold brew and count to 3.</li>
           <li>4. Do a squirt of simple syrup.</li>
           <li>5. Shake.</li>
           <li>6. Strain into glass with ice.</li>
@@ -76,7 +76,7 @@ export const Drinks = [
           <li>1. Salt rim of drink glass and add ice into glass.</li>
           <li>2. Put ice in shaker bottle.</li>
           <li>3. Pour tequila and count to 2.</li>
-          <li>4. Pour margarita mix and count to 6.</li>
+          <li>4. Pour margarita mix and count to 3.</li>
           <li>5. Do a squirt of lime Juice.</li>
           <li>6. Shake.</li>
           <li>7. Strain into glass with ice.</li>
